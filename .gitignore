@@ -12,3 +12,5 @@ windows
 analysis_options.yaml
 intro_to_flutter.iml
 pubspec.yaml
+pubspec.lock
+.metadata
