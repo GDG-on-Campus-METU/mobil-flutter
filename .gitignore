@@ -1,0 +1,14 @@
+dart_tool
+.idea 
+android
+.dart_tool
+build
+ios
+linux
+macos
+test
+web
+windows
+analysis_options.yaml
+intro_to_flutter.iml
+pubspec.yaml
